@@ -4,7 +4,7 @@
 
 In this project I took an already fully functioning HTML website and CSS styling sheet and edited the code to be more efficient, organized, and more accessible while not changing the functionality or appearance of the original website.
 
-Here are a list of changes I made to the orignal code:
+Here are a list of changes I made to the original code:
 
 1. Added alt attributes to all images to make it more accessible to the visually impared.
 2. Removed and consolidated multiple CSS classes that were repetitive.
